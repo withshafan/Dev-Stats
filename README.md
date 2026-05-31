@@ -85,5 +85,3 @@ This will create `Dev-Stats-Dashboard.pptx` in the project root.
 ```
 
 ---
-
-If you want, I can also create a `requirements.txt` file and add a one-line PowerShell script to set up and run everything. Let me know.
